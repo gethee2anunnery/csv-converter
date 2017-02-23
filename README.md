@@ -1,5 +1,3 @@
-# Artivest Code Test
-
 ## 1. Run pip to get dependencies.
 ## From the top-level directory, run like so:
 
