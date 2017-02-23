@@ -1,5 +1,5 @@
-## 1. Run pip to get dependencies.
-## From the top-level directory, run like so:
+## First, run pip to get dependencies.
+## Then, from the top-level directory, run the script like so:
 
 python solution.py --filename=data.csv --rollup=True
 
