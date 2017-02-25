@@ -1,7 +1,7 @@
 ## First, run pip to get dependencies.
 ## Then, from the top-level directory, run the script like so:
 
-python solution.py --filename=data.csv --rollup=True
+python main.py --filename=data.csv --rollup=True
 
 The filename argument is required and points to the csv input to parse.
 The rollup argument, if set to true, will output Format 2. If there is no rollup arg or it is set to false, will output Format 1.
